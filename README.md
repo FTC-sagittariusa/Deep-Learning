@@ -1,2 +1,2 @@
 # Deep-Learning
-Deep Learning package created by the FTC team of Sagittarius A*. Will be used to create neural networks.
+Deep Learning package created by the FTC team of Sagittarius A*. Used to create neural networks.
